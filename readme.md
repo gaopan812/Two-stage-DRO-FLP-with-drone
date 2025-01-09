@@ -1,2 +1,2 @@
 # Two-stage distributionally robust optimization approach for drone-supported facility location and post-disaster relief distribution
-This is the dataset and solutions for the paper "Two-stage distributionally robust optimization approach for drone-supported facility location and post-disaster relief distribution".
+This is the dataset and code for the paper "Two-stage distributionally robust optimization approach for drone-supported facility location and post-disaster relief distribution".
