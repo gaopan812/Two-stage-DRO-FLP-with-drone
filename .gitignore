@@ -3,5 +3,8 @@
 # Unignore the specific directories we want to keep
 !/data/
 !/solutions/
+# Unignore specific files
+!/readme.md
+!/LICENSE
 # Unignore this file
 !/.gitignore
