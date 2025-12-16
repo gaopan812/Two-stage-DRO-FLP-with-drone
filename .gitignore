@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# But not these directories
+!data/
+!solutions/
+# And not this file
+!.gitignore
