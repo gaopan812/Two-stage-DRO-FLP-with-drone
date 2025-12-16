@@ -1,7 +1,7 @@
-# Ignore everything
-*
-# But not these directories
-!data/
-!solutions/
-# And not this file
-!.gitignore
+# Ignore everything in the root directory
+/*
+# Unignore the specific directories we want to keep
+!/data/
+!/solutions/
+# Unignore this file
+!/.gitignore
